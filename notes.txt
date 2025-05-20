@@ -1,3 +1,7 @@
 Definition of devops
 
-Devops is a process of improving the application delivery by ensuring there is a proper automation with a code quality that is maintained or with the application quality that is maintained and ensuring there is a continuous monitoring and continuous testing in place now what will you achieve with all of these things end of the day your end goal as a devops engineer should be that there should not be any manual process or during your application delivery you have to fasten up your process.
+Devops is a process of improving the application delivery by ensuring there is a proper automation with a code quality that is maintained or with the application
+
+quality that is maintained and ensuring there is a continuous monitoring and continuous testing in place now what will you achieve with all of these things end of the
+
+day your end goal as a devops engineer should be that there should not be any manual process or during your application delivery you have to fasten up your process.
